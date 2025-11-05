@@ -17,6 +17,7 @@
   <Hotel Rating="3.9">
     <Name>Hilton Garden Inn</Name>
     <Phone>480-968-3440</Phone>
+    <Phone>888-555-4000</Phone>
     <Address>
       <Number>720</Number>
       <Street>S Mill Ave</Street>
@@ -30,6 +31,7 @@
   <Hotel Rating="4.1">
     <Name>Hyatt Place</Name>
     <Phone>480-219-8029</Phone>
+    <Phone>888-912-8010</Phone>
     <Address>
       <Number>1413</Number>
       <Street>W Rio Salado Pkwy</Street>
@@ -40,74 +42,10 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.8">
-    <Name>Aloft Tempe</Name>
-    <Phone>480-446-9000</Phone>
-    <Address>
-      <Number>951</Number>
-      <Street>E Playa del Norte Dr</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.3">
-    <Name>Graduate Tempe</Name>
-    <Phone>480-967-9431</Phone>
-    <Address>
-      <Number>225</Number>
-      <Street>E Apache Blvd</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="3.7">
-    <Name>Sonesta Select</Name>
-    <Phone>480-966-4300</Phone>
-    <Address>
-      <Number>601</Number>
-      <Street>S Ash Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.0">
-    <Name>Tempe Mission Palms</Name>
-    <Phone>480-894-1400</Phone>
-    <Address>
-      <Number>60</Number>
-      <Street>E 5th St</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="3.5">
-    <Name>Comfort Inn & Suites</Name>
-    <Phone>480-345-9200</Phone>
-    <Address>
-      <Number>1031</Number>
-      <Street>E Apache Blvd</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.1">
+  <Hotel Rating="4.5">
     <Name>Moxy Phoenix Tempe</Name>
-    <Phone>602-612-3876</Phone>
+    <Phone>480-968-3451</Phone>
+    <Phone>888-777-9011</Phone>
     <Address>
       <Number>1333</Number>
       <Street>S Rural Rd</Street>
@@ -118,9 +56,66 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.9">
-    <Name>DoubleTree by Hilton</Name>
+  <Hotel Rating="4.6">
+    <Name>Tempe Mission Palms</Name>
+    <Phone>480-894-1400</Phone>
+    <Phone>800-547-8705</Phone>
+    <Address>
+      <Number>60</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Graduate Tempe</Name>
+    <Phone>480-967-9431</Phone>
+    <Phone>888-201-5133</Phone>
+    <Address>
+      <Number>225</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>AC Hotel Phoenix Tempe</Name>
+    <Phone>480-642-6140</Phone>
+    <Phone>888-401-6222</Phone>
+    <Address>
+      <Number>100</Number>
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <Name>Comfort Inn & Suites</Name>
+    <Phone>480-966-6500</Phone>
+    <Phone>800-228-5150</Phone>
+    <Address>
+      <Number>1031</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>DoubleTree by Hilton Tempe</Name>
     <Phone>480-967-1441</Phone>
+    <Phone>888-370-0981</Phone>
     <Address>
       <Number>2100</Number>
       <Street>S Priest Dr</Street>
@@ -131,4 +126,17 @@
     </Address>
   </Hotel>
 
+  <Hotel Rating="4.7">
+    <Name>Canopy by Hilton Tempe</Name>
+    <Phone>480-676-5530</Phone>
+    <Phone>888-900-5511</Phone>
+    <Address>
+      <Number>108</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
 </Hotels>
