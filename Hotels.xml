@@ -99,7 +99,7 @@
   </Hotel>
 
   <Hotel Rating="3.8">
-    <Name>Comfort Inn & Suites</Name>
+    <Name>Comfort Inn &amp; Suites</Name>
     <Phone>480-966-6500</Phone>
     <Phone>800-228-5150</Phone>
     <Address>
